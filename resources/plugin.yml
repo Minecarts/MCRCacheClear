@@ -1,0 +1,6 @@
+name: MCRCacheClear
+main: com.minecarts.mcrcacheclear.MCRCacheClear
+version: ${pom.version}
+website: http://minecarts.com
+author: Verrier
+description: Stopgap fix for servers leaking file descriptors
